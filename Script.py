@@ -2,25 +2,25 @@
 Guys its not easy to build a repo so if you edit this or fork this please give credits and make this as source code """
 
 class script(object):   
-    HELP_TXT = """𝚑𝚎𝚢 {}
-𝙷𝚎𝚛𝚎 𝚒𝚜 𝚖𝚢 𝚑𝚎𝚕𝚙 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 ."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝚘𝚠𝚗𝚎𝚛 : <a href=https://t.me/ontopicuser>𝙱𝚛𝚊𝚡𝚝𝚘𝚗  </a>
-✯ 𝚖𝚘𝚍𝚎𝚛𝚊𝚝𝚘𝚛 : <a href=https://t.me/cursedface>𝙼𝚊𝚛𝚟𝚎𝚕</a>
-✯ 𝙻𝚒𝚋𝚛𝚊𝚛𝚢  : 𝚙𝚢𝚛𝚘𝚐𝚛𝚊𝚖
-✯ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎  : 𝚙𝚢𝚝𝚑𝚘𝚗 3 
-✯ 𝙳𝚊𝚝𝚊 𝚋𝚊𝚜𝚎 : 𝙼𝚘𝚗𝚐𝚘 𝙳𝙱 
-✯ 𝙱𝚘𝚝 𝚜𝚎𝚛𝚟𝚎𝚛 : 𝙷𝚎𝚛𝚘𝚔𝚞 
-✯ 𝙱𝚞𝚒𝚕𝚍 𝚂𝚝𝚊𝚝𝚞𝚜  : 𝚅1.0.43 [𝙼𝙰𝙹𝙾𝚁]"""
+    HELP_TXT = """𝗵𝗲𝘆 {} 
+ 𝗛𝗲𝗿𝗲 𝗶𝘀 𝗺𝘆 𝗵𝗲𝗹𝗽 𝗰𝗼𝗺𝗺𝗮𝗻𝗱 ."""
+    ABOUT_TXT = """✯ 𝗺𝘆 𝗻𝗮𝗺𝗲  : {}
+✯ 𝗼𝘄𝗻𝗲𝗿  : <a href=https://t.me/ontopicuser>𝗕𝗥𝗔𝗫𝗧𝗢𝗡  </a>
+✯ 𝗺𝗼𝗱𝗲𝗿𝗮𝘁𝗼𝗿  : <a href=https://t.me/cursedface>𝗠𝗔𝗥𝗩𝗘𝗟 </a>
+✯ 𝗟𝗜𝗕𝗥𝗔𝗥𝗬  : 𝗣𝘆𝗿𝗼𝗴𝗿𝗮𝗺
+✯ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲  : 𝗽𝘆𝘁𝗵𝗼𝗻 3 
+✯ 𝗗𝗮𝘁𝗮 𝗕𝗮𝘀𝗲 : 𝗠𝗼𝗻𝗴𝗼 𝗗𝗕
+✯ 𝗕𝗼𝘁 𝗦𝗲𝗿𝘃𝗲𝗿  : 𝗛𝗲𝗿𝗼𝗸𝘂
+✯ 𝗕𝘂𝗶𝗹𝗱 𝘀𝘁𝗮𝘁𝘂𝘀  : 𝚅1.0.43 [𝗠𝗮𝗷𝗼𝗿]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- This is a  <a href=https://github.com/EvamariaTG/EvaMaria>Eva Mari</a> clone Project
-- 𝙰𝚕𝚕 𝚝𝚑𝚊𝚗𝚔𝚜 ❣️ <a href=https://t.me/𝚘𝚗𝚝𝚘𝚙𝚒𝚌𝚞𝚜𝚎𝚛>𝙱𝚛𝚊𝚡𝚝𝚘𝚗</a> ❣️ 𝙰𝙽𝙽𝙰𝙽 𝚄𝚈𝙸𝚁  🔥🔥
+- This is a  <a href=https://github.com/EvamariaTG/EvaMaria>Eva Maria</a> clone Project
+- 𝗮𝗹𝗹 𝘁𝗵𝗮𝗻𝗸𝘀 𝘁𝗼  ❣️ <a href=https://t.me/𝚘𝚗𝚝𝚘𝚙𝚒𝚌𝚞𝚜𝚎𝚛>𝗕𝗿𝗮𝘅𝘁𝗼𝗻</a> ❣️ 𝗔𝗻𝗻𝗮𝗺 𝘂𝘆𝗶𝗿  🔥🔥
 
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙸𝚂 𝙽𝙾𝚃 𝙰𝚅𝙰𝙸𝙻𝙰𝙱𝙻𝙴 
 
-<b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/mr_MKN>𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a>"""
+<b>maintained by :</b>
+- 𝗺𝗼𝗱 1<a href=https://t.me/ontopicuser>𝗯𝗿𝗮𝘅𝘁𝗼𝗻</a>
+- 𝗺𝗼𝗱 2<a href=https://t.me/cursedface>𝗺𝗮𝗿𝘃𝗲𝗹</a>"""
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
 <b>𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝚃𝙾𝚁𝙴 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 𝙰𝙽𝙳 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺  𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝚃𝙷𝙴 𝚂𝙰𝚅𝙴𝙳 𝙵𝙸𝙻𝙴𝚂.𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙵𝙸𝙻𝚆 𝙻𝙸𝙽𝙺 𝙾𝙽𝙻𝚈  𝙾𝚁 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰  𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚈𝙾𝚄 𝙼𝚄𝚂𝚃 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝙾𝙽 𝚃𝙷𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝙵𝙸𝙻𝙴𝚂...//</b>
@@ -33,21 +33,21 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/mkn_bots_updates https://t.me/mkn_bots_updates</code>
+<code>/batch https://t.me/marvel_linkz https://t.me/marvel_linkz</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/mkn_bots_updates><b>𝙼𝙺𝙽 𝙱𝙾𝚃𝚉</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/marvel_linkz><b>marvel_linkz</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
     FUN_TXT ="""<b>Gᴀᴍᴇs</b> 
     
-<b>⚡ 𝙹𝚄𝚂𝚃 𝚂𝙾𝙼𝙴 𝙺𝙸𝙽𝙳 𝙾𝙵 𝙵𝚄𝙽 𝚃𝙷𝙸𝙽𝙶'𝚂 ⚡</b>
+<b>⚡ 𝗝𝗨𝗦𝗧 𝗙𝗢𝗥 𝗦𝗢𝗠𝗘 𝗞𝗜𝗡𝗗 𝗢𝗙 𝗙𝗨𝗡 𝗧𝗛𝗜𝗡𝗚𝗦 ⚡</b>
  
-𝟣. /dice - 𝚁𝙾𝙻𝙴 𝚃𝙷𝙴 𝙳𝙸𝙲𝙴 
-𝟤. /Throw 𝗈𝗋 /Dart - 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙳𝙰𝚁𝚃 
-3. /Runs - 𝚂𝙾𝙼𝙴 𝚁𝙰𝙽𝙳𝙾𝙼 𝙳𝙸𝙰𝙻𝙾𝙶𝚄𝙴𝚂 
-4. /Goal or /Shoot - 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙰 𝙶𝙾𝙰𝙻 𝙾𝚁 𝚂𝙷𝙾𝙾𝚃
-5. /luck or /cownd - 𝚂𝙿𝙸𝙽 𝙰𝙽𝙳 𝚃𝚁𝚈 𝚈𝙾𝚄𝚁 𝙻𝚄𝙲𝙺"""
+𝟣. /dice - 𝗥𝗢𝗟𝗘 𝗧𝗛𝗘 𝗗𝗜𝗖𝗘 
+𝟤. /Throw 𝗈𝗋 /Dart - 𝗧𝗢 𝗠𝗔𝗞𝗘 𝗗𝗔𝗥𝗧 
+3. /Runs - 𝗦𝗢𝗠𝗘 𝗥𝗔𝗡𝗗𝗢𝗠 𝗗𝗜𝗔𝗟𝗢𝗚𝗨𝗘𝗦
+4. /Goal or /Shoot - 𝗧𝗢 𝗠𝗔𝗞𝗘 𝗔 𝗚𝗢𝗔𝗟 𝗢𝗥 𝗦𝗛𝗢𝗢𝗧 
+5. /luck or /cownd - 𝗦𝗣𝗜𝗡 𝗔𝗡𝗗 𝗧𝗥𝗬 𝗬𝗢𝗨𝗥 𝗟𝗨𝗖𝗞 """
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
