@@ -1,17 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗛𝗘𝗟𝗟𝗢+𝗜+𝗔𝗠+𝗔𝗩𝗘𝗡𝗚𝗘𝗥+𝗕𝗢𝗧!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗠𝗨𝗙!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="https://telegra.ph/file/cf1a9362643ec3375589d.jpg" alt="MKN BOTZ LOGO">
+  <img src="https://telegra.ph/file/2f541e17b0b1ac76e547f.jpg" alt="Marvel linkz logo ">
 </p>
 <h1 align="center">
   <b> 𝗔𝗩𝗘𝗡𝗚𝗘𝗥 𝗕𝗢𝗧 </b>
 </h1>
 
-[![Stars](https://img.shields.io/github/stars/MrMKN/Professor-Bot?style=flat-square&color=yellow)](https://github.com/MrMKN/Professor-Bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrMKN/Professor-Bot?style=flat-square&color=orange)](https://github.com/MrMKN/Professor-Bot/fork)
-[![Size](https://img.shields.io/github/repo-size/MrMKN/Professor-Bot?style=flat-square&color=green)](https://github.com/MrMKN/Professor-Bot/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+
 
 
 
